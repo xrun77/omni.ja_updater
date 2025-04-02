@@ -8,7 +8,7 @@ If no errors are found, a file omni_mod.ja will be created next to the program.
 
 The program has three optional command line start keys:
 
-omni.ja_update.exe [/?|-?|?] [/i|-i|i]
+omni.ja_update.exe [/?|-?|?] [/i|-i|i] [/h|-h|h|help]
 
 [/?|-?|?] - window "About"
 
